@@ -1,0 +1,12 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+#Coverage files
+coverage
+coverage.json
+
+#IDE specific files
+.idea
