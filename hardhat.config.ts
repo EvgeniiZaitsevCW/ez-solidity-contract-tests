@@ -34,6 +34,7 @@ module.exports = {
       accounts: {
         mnemonic: 'test test test test test test test test test test test junk',
       },
+      gas: "auto",
     },
     ganache: {
       url: "HTTP://127.0.0.1:7545",
